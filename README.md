@@ -67,8 +67,8 @@ void loop()
 ![Screenshot 2024-04-06 011215](https://github.com/Sharonsteffani2005/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144979934/cf5fa1fb-3766-4bef-8b05-3066ed1ba572)
 
 ### SCHEMATIC VIEW:
-![image](https://github.com/Sharonsteffani2005/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144979934/20149946-ee0a-4129-93f7-59006935279e)
 
+![Screenshot 2024-05-07 201607](https://github.com/Sharonsteffani2005/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/144979934/60e54c31-8759-4dd8-bf75-a1698257469b)
 
 ### RESULTS : Thus we have controled the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
